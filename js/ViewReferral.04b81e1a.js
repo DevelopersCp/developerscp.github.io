@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["ViewReferral"],{e5a6:function(e,n,l){"use strict";l.r(n);var a,u,w=l("2877"),o={},p=Object(w["a"])(o,a,u,!1,null,null,null);n["default"]=p.exports}}]);
-//# sourceMappingURL=ViewReferral.04b81e1a.js.map
